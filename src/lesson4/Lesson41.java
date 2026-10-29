@@ -7,7 +7,7 @@ import lesson4.task2.Calculator;
 //2. Object
 //3. Encapsulation - o`rash
 //4. Polymorphism - kop funksionallik, method overloading, method overriding
-//5. Abstraction
+//5. Abstraction - abstract class, interface
 //6. Inheritance - vorislik
 public class Lesson41 {
     public static void main(String[] args) {
